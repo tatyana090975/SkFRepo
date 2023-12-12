@@ -1,1 +1,2 @@
 # SkFRepo
+Изменения для master.
